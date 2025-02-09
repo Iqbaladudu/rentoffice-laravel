@@ -1,0 +1,13 @@
+GET http://127.0.0.1:8000/api/cities
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/api/city/jakarta
+Accept: application/json
+
+###
+
+GET http://127.0.0.1:8000/api/office-spaces
+Accept: application/json
+x-api-key: adudu

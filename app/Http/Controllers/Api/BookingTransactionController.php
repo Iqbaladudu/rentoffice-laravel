@@ -1,11 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Api;
+    namespace App\Http\Controllers\Api;
 
-use App\Http\Controllers\Controller;
-use Illuminate\Http\Request;
+    use App\Http\Controllers\Controller;
 
-class BookingTransactionController extends Controller
-{
-    //
-}
+    class BookingTransactionController extends Controller
+    {
+
+    }
